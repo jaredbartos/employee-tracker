@@ -1,8 +1,6 @@
 # Employee Tracker
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-
-
 ## Description
 
 Employee Tracker is an Node.js app that communicates with a local database using MySQL2 and Inquirer. It is used to view employees, roles, and departments within a company. 
@@ -67,7 +65,7 @@ jaredbartos@gmail.com
 
 ## Link to Demonstration Video
 
-
+[Employee Tracker](https://drive.google.com/file/d/1V3ISAaogk9kvCz5fpmC1kyUcrTrzVkqY/view?usp=sharing)
 
 ## Screenshot
 
